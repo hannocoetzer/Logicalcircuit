@@ -2,6 +2,8 @@
 
 A Java-based graphical application for building and simulating digital logic circuits. Create logic gates (AND, OR, NOT) and switches on a grid, connect them with wires, and test your circuits.
 
+![Game Screenshot](images/game_screen.jpg)
+
 ## Installing Java
 
 1. Go to [Oracle's Java Downloads](https://www.oracle.com/java/technologies/downloads/)
